@@ -1,0 +1,4 @@
+pyqrcode
+pillow
+reportlab
+webcolors
